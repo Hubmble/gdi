@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://otafsc.h2os.com/patch/CHN/OnePlus7ProHydrogen/OnePlus7ProHydrogen_13.X.37_037_2006111712/OnePlus7ProHydrogen_13.X.37_OTA_037_all_2006111712_ffda0b581a.zip
-  ROM_NAME: Oxygen
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
